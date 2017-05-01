@@ -1,8 +1,8 @@
 {
   "name": "mady-in-react-native",
-  "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null,
+  "version": "0.0.1",
+  "description": "Sample app to try out Mady for i18n",
+  "author": "Björn Rixman",
   "main": "main.js",
   "scripts": {
     "test": "node node_modules/jest/bin/jest.js",
@@ -14,8 +14,9 @@
   "dependencies": {
     "@expo/ex-navigation": "~2.10.0",
     "@expo/samples": "~1.0.3",
+    "buffer": "^5.0.6",
     "expo": "16.0.0",
-    "mady": "^2.2.0",
+    "mady": "^2.3.0",
     "react": "16.0.0-alpha.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz"
   },
