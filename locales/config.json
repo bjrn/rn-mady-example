@@ -1,0 +1,22 @@
+{
+  "srcPaths": [
+    "screens",
+    "components"
+  ],
+  "srcExtensions": [
+    ".js"
+  ],
+  "langs": [
+    "en",
+    "es"
+  ],
+  "msgFunctionNames": [
+    "_t"
+  ],
+  "msgRegexps": [],
+  "fMinify": false,
+  "fJsOutput": true,
+  "fJsonOutput": true,
+  "fReactIntlOutput": true,
+  "dbVersion": 2
+}

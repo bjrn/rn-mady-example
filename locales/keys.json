@@ -1,0 +1,12 @@
+{
+  "SGVsbG8h": {
+    "id": "SGVsbG8h",
+    "context": null,
+    "text": "Hello!",
+    "firstUsed": "2017-04-29T23:31:14.364Z",
+    "unusedSince": null,
+    "sources": [
+      "screens/HomeScreen.js"
+    ]
+  }
+}
